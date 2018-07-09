@@ -6,4 +6,4 @@ puts "hello".length
 hi = "hello"
 puts hi
 
-puts 103.5+1
+puts 103.5+1.to_i
